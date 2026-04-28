@@ -1,0 +1,6 @@
+# .gitignore for public repo
+# Only exclude sensitive/cache/docs files
+cache/
+docs/
+cache/api_usage.json
+# Add more patterns as needed for privacy
