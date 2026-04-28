@@ -1,5 +1,5 @@
 
-# trace-wi: Blockchain Wallet Analysis Pipeline for Spygract 2.1
+# trace-wi: Blockchain Wallet Analysis Pipeline for Spycraft 2.1
 
 This project provides a Python pipeline for analyzing blockchain wallet-transaction graphs, supporting both Bitcoin and Ethereum. It is designed for research, forensics, and data science use cases, with strict API rate limiting and local caching.
 
